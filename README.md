@@ -1,4 +1,4 @@
-# Path_Finding
+# Overview
 
 An implementation of A* algorithm to find the shortest path between two points in a given space, which simulates a simplified version of challenges faced in robotics navigation and manufacturing automation.
 
@@ -19,3 +19,7 @@ On the other hand, __genetic algorithm__ (GA) can also be used to solve Path Pla
 I tried GA, but since the small scale map and other simple constraints, GA cannot improve the performance.
 
 E.g., in population initialize stage, it's almost impossible to generate a large enough population, i.e., it can only generate a few number of feasible DNA.
+
+# Instructions
+
+To run the algorithm, can choose to run the Jupyter Notebook or run the train.py files.
